@@ -4,11 +4,11 @@
 ## << Contents >>
 ### Chapter 01. Prerequisite: Python
 1. Python
-   1.1 Introductory
-   1.2 Data types & Variables
-   1.3 Operations
-   1.4 Data Structures
-   1.5 Branch statements
+   1. Introductory
+   2. Data types & Variables
+   3. Operations
+   4. Data Structures
+   5. Branch statements
    1.6 Loop statements
    1.7 Functions
    1.8 Object Oriented Programming & Classes

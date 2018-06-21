@@ -1,9 +1,11 @@
-# deep_learning_tutorials
+# deep_learning_tutorials :shit:
 
 
 
 ## << Contents >>
-### Chapter 01. Prerequisite: Python
+### Chapter 01. Prerequisite: Python  
+
+
 **1. Python**
    - 1.1. Introductory
    - 1.2. Data types & Variables
@@ -21,7 +23,9 @@
    - 2.1 Numpy
    - 2.2 matplotlib
 
-### Chapter 02. The basic principle(concept) of deep learning
+### Chapter 02. The basic principle(concept) of deep learning  
+
+
 **3. The perceptron**
 
 **4. Neural network**
@@ -32,7 +36,9 @@
 
 **7. Convolutional neural network**
 
-### Chapter 03. Pytorch : machine-learning framework
+### Chapter 03. Pytorch : machine-learning framework  
+
+
 **8. PyTorch**
 
 **9. Implement networks using PyTorch**

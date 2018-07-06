@@ -8,7 +8,7 @@
 
 **1. Python**
    - [x] 1.1. Introductory
-   - [ ] 1.2. Data types & Variables
+   - [x] 1.2. Data types & Variables
    - [ ] 1.3. Operators
    - [ ] 1.4. Data Structures
    - [ ] 1.5. Branch statements

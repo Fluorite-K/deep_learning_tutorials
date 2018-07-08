@@ -9,11 +9,11 @@
 **1. Python**
    - [x] 1.1. Introductory
    - [x] 1.2. Data types & Variables
-   - [ ] 1.3. Operators
-   - [ ] 1.4. Data Structures
-   - [ ] 1.5. Branch statements
-   - [ ] 1.6. Loop statements
-   - [ ] 1.7. Functions
+   - [x] 1.3. Operators
+   - [ ] 1.4. Branch statements
+   - [ ] 1.5. Loop statements
+   - [ ] 1.6. Functions
+   - [ ] 1.7. Data Structures
    - [ ] 1.8. Object Oriented Programming & Classes
    - [ ] 1.9. packages & modules
    - [ ] 1.10. Files

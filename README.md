@@ -10,11 +10,11 @@
    - [x] 1.1. Introductory
    - [x] 1.2. Data types & Variables
    - [x] 1.3. Operators
-   - [ ] 1.4. Branch statements
-   - [ ] 1.5. Loop statements
-   - [ ] 1.6. Functions
-   - [ ] 1.7. Data Structures
-   - [ ] 1.8. Object Oriented Programming & Classes
+   - [x] 1.4. Branch statements
+   - [x] 1.5. Loop statements
+   - [x] 1.6. Functions
+   - [ ] 1.7. Object Oriented Programming & Classes
+   - [ ] 1.8. Data Structures
    - [ ] 1.9. packages & modules
    - [ ] 1.10. Files
    - [ ] 1.11. Error handling
